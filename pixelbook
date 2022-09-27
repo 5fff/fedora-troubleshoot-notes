@@ -1,2 +1,2 @@
-### Disable tablet mode related incompatibility issue
+### Disable tablet mode related incompatibility issue ###
 `sudo systemctl disable iio-sensor-proxy --now`
